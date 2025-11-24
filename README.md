@@ -30,7 +30,3 @@ A stunning movie search application powered by the OMDB API.
 3.  **Launch**:
     - Open `index.html` in your browser.
     - Search for your favorite movies!
-
-## 📸 Screenshots
-
-*(Add screenshots here after running the app)*
